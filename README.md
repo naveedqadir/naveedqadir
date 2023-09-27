@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**naveedqadir/naveedqadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Naveed Qadir 👋
 
-Here are some ideas to get you started:
+Welcome to my tech-driven journey! I'm a passionate learner with a diverse set of skills and certifications across different domains. Let's dive into my achievements:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Education and Certifications
+
+- **Python for Data Science** by InfoSys
+- **Advanced HTML/CSS** - Cutshort Certified
+- **Android App Development** from Internshala
+- **Cybersecurity Essentials** certified by Cisco
+- **Packet Tracer Basics** by Cisco
+- **Introduction to Cybersecurity** (Cisco)
+- **Demystifying Networking** (NPTEL)
+- **Technical Support Fundamentals** (Google - Coursera)
+- **Learn HTML CSS Bootstrap Git Github** (MentorIf)
+
+## 🏆 Awards and Recognitions
+
+- **GitHub Hands-on Workshop** - Certified by GitHub
+- **Tata Imagination Challenge 2022** - Certificate of Participation from Unstop (formerly Dare2Compete)
+- **CTF Challenge 2022** - Proud participant with KPMG
+
+## ☁️ Cloud Expertise
+
+- **Cloud Core** certified by IBM
+
+## 🌍 Location
+
+I'm based in **Noida, Uttar Pradesh, India**, and I'm always open to connecting with fellow tech enthusiasts.
+
+## 📧 Contact
+
+Feel free to reach out to me via email at [naveedqadir0@gmail.com](mailto:naveedqadir0@gmail.com) or give me a call at +91 6005871152. 
