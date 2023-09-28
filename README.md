@@ -2,6 +2,9 @@
 
 Welcome to my tech-driven journey! I'm a passionate learner with a diverse set of skills and experience in different domains. Let's dive into my achievements:
 
+# 💫 About Me:
+🔭 I’m currently working on improving my Python data analysis skills.<br>👯 I’m looking to collaborate on on open-source web development and Cyber Security projects<br>💬 Ask me about Python , JavaScript programming and web development<br>
+
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/naveed.qadir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveedqadir)
