@@ -34,7 +34,7 @@ I'm based in **Noida, Uttar Pradesh, India**, and I'm always open to connecting 
 
 ## 📧 Contact
 
-Feel free to reach out to me via email at [naveedqadir0@gmail.com](mailto:naveedqadir0@gmail.com) or give me a call at +91 6005871152.
+Feel free to reach out to me via email at [naveedqadir0@gmail.com](mailto:naveedqadir0@gmail.com)
 
 ## 🌐 Portfolio
 
