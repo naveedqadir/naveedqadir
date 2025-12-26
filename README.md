@@ -38,4 +38,4 @@ Feel free to reach out to me via email at [naveedqadir0@gmail.com](mailto:naveed
 
 ## 🌐 Portfolio
 
-Explore my portfolio at [naveedsportfolio.netlify.app](https://naveedsportfolio.netlify.app).
+Explore my portfolio at [portfolio.loophub.in](https://portfolio.loophub.in).
