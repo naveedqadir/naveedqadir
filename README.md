@@ -4,7 +4,7 @@
 
 ### Freelance Full Stack Developer | AI Engineer | Cyber Security Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;AI+%26+Security+Specialist;Freelance+Engineer;Building+Scalable+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;AI+%26+Security+Specialist;Freelance+Engineer;Building+Scalable+Solutions)](https://portfolio.loophub.in)
 
 </div>
 
