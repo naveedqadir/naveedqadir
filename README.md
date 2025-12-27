@@ -194,10 +194,6 @@ Developing and maintaining software solutions, ensuring code quality, and collab
 *Jul 2025 - Present (Part-time)*  
 Mentoring developers on best practices, code review, and technical guidance.
 
-**Full-stack Intern** @ Manav Rachna Innovation  
-*Dec 2022 - Jun 2023*  
-Worked with MERN Stack & Django on various web development projects.
-
 ---
 
 ## 🎓 Education
